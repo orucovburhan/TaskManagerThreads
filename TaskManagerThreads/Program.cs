@@ -12,6 +12,7 @@ class Program
 1.Show all processes
 2.Kill process
 3.Create a process
+4.See process detail
 Choose one:");
 
          string choice = Console.ReadLine();
@@ -47,6 +48,19 @@ Choose one:");
                Console.WriteLine("Application couldn't start.");
             }
          }
+         else if (choice == "4")
+         {
+            Console.Write("Enter the name of the process that you want to see details:");
+            string processName = Console.ReadLine();
+            var process = Process.GetProcessesByName(processName);
+            Console.WriteLine($"Process name: {process[0].ProcessName}");
+            Console.WriteLine($"Process id: {process[0].Id}");
+            Console.WriteLine($"Machine name: {process[0].MachineName}");
+            Console.WriteLine($"Handle count: {process[0].Handle}");
+            
+            
+         }
+         
 
 
 

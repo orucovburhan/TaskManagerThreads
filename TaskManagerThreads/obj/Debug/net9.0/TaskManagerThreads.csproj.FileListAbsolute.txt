@@ -12,3 +12,4 @@
 /Users/burhanorucov/Documents/STEP/SystemProgramming/TaskManagerThreads/TaskManagerThreads/obj/Debug/net9.0/TaskManagerThreads.pdb
 /Users/burhanorucov/Documents/STEP/SystemProgramming/TaskManagerThreads/TaskManagerThreads/obj/Debug/net9.0/TaskManagerThreads.genruntimeconfig.cache
 /Users/burhanorucov/Documents/STEP/SystemProgramming/TaskManagerThreads/TaskManagerThreads/obj/Debug/net9.0/ref/TaskManagerThreads.dll
+/Users/burhanorucov/Documents/STEP/SystemProgramming/TaskManagerThreads/TaskManagerThreads/obj/Debug/net9.0/TaskManagerThreads.sourcelink.json
