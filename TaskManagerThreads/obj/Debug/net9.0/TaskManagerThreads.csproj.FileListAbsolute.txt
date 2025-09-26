@@ -1,0 +1,14 @@
+/Users/burhanorucov/Documents/STEP/SystemProgramming/TaskManagerThreads/TaskManagerThreads/bin/Debug/net9.0/TaskManagerThreads
+/Users/burhanorucov/Documents/STEP/SystemProgramming/TaskManagerThreads/TaskManagerThreads/bin/Debug/net9.0/TaskManagerThreads.deps.json
+/Users/burhanorucov/Documents/STEP/SystemProgramming/TaskManagerThreads/TaskManagerThreads/bin/Debug/net9.0/TaskManagerThreads.runtimeconfig.json
+/Users/burhanorucov/Documents/STEP/SystemProgramming/TaskManagerThreads/TaskManagerThreads/bin/Debug/net9.0/TaskManagerThreads.dll
+/Users/burhanorucov/Documents/STEP/SystemProgramming/TaskManagerThreads/TaskManagerThreads/bin/Debug/net9.0/TaskManagerThreads.pdb
+/Users/burhanorucov/Documents/STEP/SystemProgramming/TaskManagerThreads/TaskManagerThreads/obj/Debug/net9.0/TaskManagerThreads.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burhanorucov/Documents/STEP/SystemProgramming/TaskManagerThreads/TaskManagerThreads/obj/Debug/net9.0/TaskManagerThreads.AssemblyInfoInputs.cache
+/Users/burhanorucov/Documents/STEP/SystemProgramming/TaskManagerThreads/TaskManagerThreads/obj/Debug/net9.0/TaskManagerThreads.AssemblyInfo.cs
+/Users/burhanorucov/Documents/STEP/SystemProgramming/TaskManagerThreads/TaskManagerThreads/obj/Debug/net9.0/TaskManagerThreads.csproj.CoreCompileInputs.cache
+/Users/burhanorucov/Documents/STEP/SystemProgramming/TaskManagerThreads/TaskManagerThreads/obj/Debug/net9.0/TaskManagerThreads.dll
+/Users/burhanorucov/Documents/STEP/SystemProgramming/TaskManagerThreads/TaskManagerThreads/obj/Debug/net9.0/refint/TaskManagerThreads.dll
+/Users/burhanorucov/Documents/STEP/SystemProgramming/TaskManagerThreads/TaskManagerThreads/obj/Debug/net9.0/TaskManagerThreads.pdb
+/Users/burhanorucov/Documents/STEP/SystemProgramming/TaskManagerThreads/TaskManagerThreads/obj/Debug/net9.0/TaskManagerThreads.genruntimeconfig.cache
+/Users/burhanorucov/Documents/STEP/SystemProgramming/TaskManagerThreads/TaskManagerThreads/obj/Debug/net9.0/ref/TaskManagerThreads.dll
